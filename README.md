@@ -22,6 +22,21 @@ Se usa comúnmente para crear archivos README, documentación, blogs y notas té
 
 ### Encabezados
 ```md
-# Título 1
-## Título 2
-### Título 3
+# Encabezado nivel 1
+## Encabezado nivel 2
+### Encabezado nivel 3
+
+[GitHub](https://github.com)
+`git status`
+
+
+---
+
+## Comandos Git utilizados
+
+### Verificar el estado del repositorio
+```bash
+git status
+
+
+git add archivo.txt
